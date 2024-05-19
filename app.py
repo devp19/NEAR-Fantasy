@@ -66,6 +66,13 @@ def read_json_data():
         data = json.load(json_file)
     return data
 
+def read_json_team_data():
+    with open('json/fantasy_team_data.json', 'r') as json_file:
+        team_data = json.load(json_file)
+    return team_data
+
+
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
@@ -73,8 +80,12 @@ def index():
         fetch_league_info(league_id)
         data = read_json_data()
         standings = data['standings']
-        return render_template('index.html', standings=standings)
+        team_data = read_json_team_data()
+
+        return render_template('index.html', standings=standings, team_data=team_data)
     return render_template('index.html')
+
+   
 
 if __name__ == '__main__':
     app.run(debug=True)

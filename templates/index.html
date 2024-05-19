@@ -202,6 +202,7 @@
       </div>
     </div>
     <div class="row mt-5">
+      
       <div id="yap-box" class="col-md-12">
         {% if standings %}
           <h2 class="text-center title-text" style="font-size: 20px;">SCOREBOARD</h2>
@@ -230,8 +231,76 @@
         {% endif %}
       </div>
     </div>
+
+  </div>
+  </div>
+
+
+<!-- SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR
+SEPERATOR -->
+
+
+<div id="margin-container">
+  <div id="about" class="container-fluid" style="border-bottom: 1px solid rgb(31, 31, 31);">
+    <div class="row">
+      <div class="col-md-12 text-center title-text">
+        <h2>PLAYER POOL</h2>
+        <p style="font-size: 15px; color: rgb(101, 101, 101); font-family: Manrope">See the current pool of players from the given league!</p>
+      </div>
+    </div>
+  
+    <div class="row mt-5">
+
+      <div id="yap-box" class="col-md-12" style="height: 550px; overflow-y: scroll;">
+        {% if team_data %}
+            <h2 class="text-center title-text" style="font-size: 20px;">PLAYER LIST</h2>
+            <table id="table-style" class="table table-striped table-bordered" style="width: 100%;">
+                <thead>
+                    <tr>
+                        <th>Player Name</th>
+                        <th>Status</th>
+                        <th>Eligible Positions</th>
+                        <th>Current Position</th>
+                        <!-- Add more columns if needed -->
+                    </tr>
+                </thead>
+                <tbody>
+                    {% set player_count = 0 %}
+                    {% for team_key, player_list in team_data.items() %}
+                        {% for player in player_list %}
+                            {% if player_count < 15 %}
+                                <tr>
+                                    <td>{{ player['name'] }}</td>
+                                    <td>{{ player['status'] }}</td>
+                                    <td>{{ player['eligible_positions'] }}</td>
+                                    <td>{{ player['selected_position'] }}</td>
+                                </tr>
+                                {% set player_count = player_count + 1 %}
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endif %}
+    </div>
+    
+    
+    
+    
+    </div>
+
   </div>
 </div>
+
+
+
 
 
 
@@ -240,13 +309,13 @@
   <div id=about class="container-fluid" style="border-bottom: 1px solid rgb(31, 31, 31);">
     <div class="row title-text" style="font-size: 20px; color: rgb(32, 32, 32);">
       <div class="col-md-12">
-        THE FUTURE | BECOME A RIVAL
+        THE NFT COLLECTION
       </div>
     </div>
 
     <div class="row">
       <div class="col-md-4 title-text" id="about-main" style="padding-right: 20px; padding-bottom: 0px;">
-        BECOME AN ESPORTS PROFESSIONAL
+        NEAR ELITE NFT'S
 
         <div>
           <a class=button href="/">VIEW PLANS<svg xmlns="http://www.w3.org/2000/svg" style="margin-left: 10px;" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-right-circle-fill" viewBox="0 0 16 16">
@@ -258,10 +327,34 @@
     
 
       <div id=yap-box class="col-md">
-        <p>
-          Want to get started on your esports career? Don't know where to start and need guidance? View our perfectly curated plans to help you become a RIVAL and take off on your journey in esports, including exlcusive perks and benefits from the Rivals family!
+        <div class="row">
 
-        </p>
+          <div class="col-md-4" style="outline: 1px solid red;">
+            <img class="img-fluid" style="height: 250px" src="/static/lebron1.png" alt="">
+
+            <a style="margin-top: 30px; display: flex; justify-content: center;" class=button href="/">BUY: 1299 $NEAR <svg style="margin-left: 10px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-right-circle-fill" viewBox="0 0 16 16">
+              <path d="M0 8a8 8 0 1 0 16 0A8 8 0 0 0 0 8m5.904 2.803a.5.5 0 1 1-.707-.707L9.293 6H6.525a.5.5 0 1 1 0-1H10.5a.5.5 0 0 1 .5.5v3.975a.5.5 0 0 1-1 0V6.707z"/>
+            </svg></a>
+
+          </div>
+        
+          <div class="col-md-4" style="outline: 1px solid red;">
+            <img class="img-fluid" style="height: 250px; display: flex; position: relative; left: 30px;" src="/static/lebron2.png" alt="">
+            
+            <a style="margin-top: 30px; display: flex; justify-content: center;" class=button href="/">BUY: 599 $NEAR <svg style="margin-left: 10px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-right-circle-fill" viewBox="0 0 16 16">
+              <path d="M0 8a8 8 0 1 0 16 0A8 8 0 0 0 0 8m5.904 2.803a.5.5 0 1 1-.707-.707L9.293 6H6.525a.5.5 0 1 1 0-1H10.5a.5.5 0 0 1 .5.5v3.975a.5.5 0 0 1-1 0V6.707z"/>
+            </svg></a>
+
+          </div>
+         
+          <div class="col-md-4">
+            <img class="img-fluid" style="height: 250px;" src="/static/lebron3.png" alt="">
+            <p>
+              LEBRON JAMES | BRONZE
+            </p>
+          </div>
+          
+        </div>
         <br>
         
         <img src="assets/header.png" style="display: block; margin: 0 auto; height: 250px;" alt="">
