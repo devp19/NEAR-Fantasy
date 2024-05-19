@@ -1,0 +1,180 @@
+{
+    "standings": [
+        {
+            "team_key": "428.l.184608.t.3",
+            "name": "Darsh",
+            "rank": 1,
+            "playoff_seed": "4",
+            "outcome_totals": {
+                "wins": "13",
+                "losses": "7",
+                "ties": 0,
+                "percentage": ".650"
+            },
+            "games_back": "5",
+            "points_for": "28456.50",
+            "points_against": 24666.4
+        },
+        {
+            "team_key": "428.l.184608.t.7",
+            "name": "Punjab Jabis",
+            "rank": 2,
+            "playoff_seed": "3",
+            "outcome_totals": {
+                "wins": "15",
+                "losses": "5",
+                "ties": 0,
+                "percentage": ".750"
+            },
+            "games_back": "3",
+            "points_for": "27538.70",
+            "points_against": 23498.5
+        },
+        {
+            "team_key": "428.l.184608.t.1",
+            "name": "TRIBAL CHIEF\u261d\ud83c\udffe\ud83e\ude78",
+            "rank": 3,
+            "playoff_seed": "1",
+            "outcome_totals": {
+                "wins": "18",
+                "losses": "2",
+                "ties": 0,
+                "percentage": ".900"
+            },
+            "games_back": "-",
+            "points_for": "29425.60",
+            "points_against": 23707.599999999995
+        },
+        {
+            "team_key": "428.l.184608.t.2",
+            "name": "shae bae \ud83d\udc8b\ud83d\udc95\ud83d\udc85",
+            "rank": 4,
+            "playoff_seed": "2",
+            "outcome_totals": {
+                "wins": "16",
+                "losses": "4",
+                "ties": 0,
+                "percentage": ".800"
+            },
+            "games_back": "2",
+            "points_for": "29008.60",
+            "points_against": 23293.3
+        },
+        {
+            "team_key": "428.l.184608.t.12",
+            "name": "Anujan",
+            "rank": 5,
+            "playoff_seed": "7",
+            "outcome_totals": {
+                "wins": "9",
+                "losses": "11",
+                "ties": 0,
+                "percentage": ".450"
+            },
+            "games_back": "9",
+            "points_for": "23196.90",
+            "points_against": 24759.600000000002
+        },
+        {
+            "team_key": "428.l.184608.t.9",
+            "name": "VAMP \ud83e\udddb",
+            "rank": 6,
+            "playoff_seed": "8",
+            "outcome_totals": {
+                "wins": "7",
+                "losses": "13",
+                "ties": 0,
+                "percentage": ".350"
+            },
+            "games_back": "11",
+            "points_for": "23600.10",
+            "points_against": 24111.7
+        },
+        {
+            "team_key": "428.l.184608.t.8",
+            "name": "DP",
+            "rank": 7,
+            "playoff_seed": "6",
+            "outcome_totals": {
+                "wins": "11",
+                "losses": "9",
+                "ties": 0,
+                "percentage": ".550"
+            },
+            "games_back": "7",
+            "points_for": "24235.60",
+            "points_against": 24282.200000000004
+        },
+        {
+            "team_key": "428.l.184608.t.4",
+            "name": "sigh",
+            "rank": 8,
+            "playoff_seed": "5",
+            "outcome_totals": {
+                "wins": "13",
+                "losses": "7",
+                "ties": 0,
+                "percentage": ".650"
+            },
+            "games_back": "5",
+            "points_for": "25604.80",
+            "points_against": 23811.600000000002
+        },
+        {
+            "team_key": "428.l.184608.t.5",
+            "name": "The final boss \ud83e\udea8",
+            "rank": "9",
+            "outcome_totals": {
+                "wins": "6",
+                "losses": "14",
+                "ties": 0,
+                "percentage": ".300"
+            },
+            "games_back": "12",
+            "points_for": "22688.10",
+            "points_against": 25220.800000000003
+        },
+        {
+            "team_key": "428.l.184608.t.6",
+            "name": "Toronto Brokeboys",
+            "rank": "10",
+            "outcome_totals": {
+                "wins": "4",
+                "losses": "16",
+                "ties": 0,
+                "percentage": ".200"
+            },
+            "games_back": "14",
+            "points_for": "20983.90",
+            "points_against": 25303.1
+        },
+        {
+            "team_key": "428.l.184608.t.10",
+            "name": "Suthys Bando",
+            "rank": "11",
+            "outcome_totals": {
+                "wins": "4",
+                "losses": "16",
+                "ties": 0,
+                "percentage": ".200"
+            },
+            "games_back": "14",
+            "points_for": "18773.70",
+            "points_against": 24584.300000000003
+        },
+        {
+            "team_key": "428.l.184608.t.11",
+            "name": "Aaryan's Agreeable Team",
+            "rank": "12",
+            "outcome_totals": {
+                "wins": "4",
+                "losses": "16",
+                "ties": 0,
+                "percentage": ".200"
+            },
+            "games_back": "14",
+            "points_for": "18347.40",
+            "points_against": 24620.8
+        }
+    ]
+}

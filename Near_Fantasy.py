@@ -4,7 +4,7 @@ import json
 
 
 # Authenticate using the OAuth2 credentials
-sc = OAuth2(None, None, from_file='oauth2.json')
+sc = OAuth2(None, None, from_file='json/ouath2.json')
 
 
 # Access the NBA game
@@ -33,13 +33,13 @@ standings = lg.standings()
 
 
 data = { 
-    "leagues": leagues,
-    "team_key": teamkey,
-    "roster": roster,
+    # "leagues": leagues,
+    # "team_key": teamkey,
+    # "roster": roster,
     "standings": standings
 
 }
 
-with open('fantasy_data.json', 'w') as json_file:
+with open('json/fantasy_data.json', 'w') as json_file:
     json.dump(data, json_file, indent=4)
 

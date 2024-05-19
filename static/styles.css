@@ -165,6 +165,10 @@ max-height: fit-content;
     border: 1px solid rgb(37, 37, 37);
 }
 
+#table-style {
+    color: white;
+    font-size: 10px;
+}
 
 @media (max-width: 768px) {
 #first-section, #about, #margin-container{
