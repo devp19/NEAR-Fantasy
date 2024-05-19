@@ -2,6 +2,7 @@ from flask import Flask, request, render_template, jsonify
 from yahoo_oauth import OAuth2
 import yahoo_fantasy_api as yfa
 import json
+# from jinja2 import Environment
 
 app = Flask(__name__)
 
@@ -11,7 +12,15 @@ def authenticate():
     sc = OAuth2(None, None, from_file='json/ouath2.json')
     return sc
 
-# Function to fetch league information using league ID
+
+# # Define a custom filter for multiplication
+# def multiply(value, factor):
+#     return value * factor
+
+# # Add the custom filter to the Jinja2 environment
+# app.jinja_env.filters['multiply'] = multiply
+
+
 def fetch_league_info(league_id):
     # Authenticate
     sc = authenticate()
@@ -22,23 +31,34 @@ def fetch_league_info(league_id):
     # Access the league using the provided league ID
     lg = gm.to_league(league_id)
 
-    # Get the team key for the league
-    teamkey = lg.team_key()
-
-    # Access the team associated with the team key
-    team = lg.to_team(teamkey)
-
     # Get the standings for the league
     standings = lg.standings()
 
     # Prepare data
-    data = {
-        "standings": standings
-    }
+    data = {"standings": standings}
+
+    # Initialize a dictionary to store team rosters
+    team_data = {}
+
+    # Iterate over each team in the standings
+    for team_standings in standings:
+        team_key = team_standings['team_key']
+        # Access the team associated with the team key
+        team = lg.to_team(team_key)
+        # Get the roster for the team
+        team_roster = team.roster()
+        # Store the roster in the team_data dictionary
+        team_data[team_key] = team_roster
 
     # Save data to JSON file
     with open('json/fantasy_data.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
+        
+    # Save team roster data to JSON file
+    with open('json/fantasy_team_data.json', 'w') as json_file:
+        json.dump(team_data, json_file, indent=4)
+
+
 
 # Function to read JSON data from file
 def read_json_data():

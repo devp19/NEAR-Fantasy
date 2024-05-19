@@ -196,7 +196,7 @@
             <input type="text" class="form-control" id="league_id" name="league_id">
           </div>
           <button>
-            <a class=button type="submit" style="background-color: none; padding: none;">SUBMIT</a>
+            <a type="submit" class=button>SUBMIT</a>
           </button>
         </form>
       </div>
@@ -211,6 +211,7 @@
                 <th>Team</th>
                 <th>Wins</th>
                 <th>Losses</th>
+                <th>Fantasy Points</th>
                 <!-- Add more columns if needed -->
               </tr>
             </thead>
@@ -220,6 +221,7 @@
                   <td>{{ team['name'] }}</td>
                   <td>{{ team['outcome_totals']['wins'] }}</td>
                   <td>{{ team['outcome_totals']['losses'] }}</td>
+                  <td>{{ (team['outcome_totals']['wins'] | int * 1000) - (team['outcome_totals']['losses'] | int * 200) }}</td>
                   <!-- Add more columns if needed -->
                 </tr>
               {% endfor %}
