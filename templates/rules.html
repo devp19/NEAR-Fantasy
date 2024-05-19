@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>ArtFT</title>
+    <meta name="author" content="Captain Morgan">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://seeklogo.com/images/N/near-icon-logo-10785AE366-seeklogo.com.png">
+   
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+
+    <!-- FONT FOR WEBSITE -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
+  <script>
+    function scrollToAbout() {
+      // Smooth scroll to the element with id "about"
+      
+      document.getElementById('main-about').scrollIntoView({ behavior: 'smooth' });
+    }
+  </script>
+
+  <script>
+    function scrollToNews() {
+      // Smooth scroll to the element with id "about"
+      
+      document.getElementById('news-scroll').scrollIntoView({ behavior: 'smooth' });
+    }
+  </script>
+ 
+  
+</head>
+
+
+<body>
+
+  <nav class="navbar navbar-expand-md navbar-sticky">
+    <div class="container">
+      <a class="navbar-brand" href="#"><img src="https://seeklogo.com/images/N/near-icon-logo-10785AE366-seeklogo.com.png" alt="Logo" height="62" width="62"> <span id=nearValue style="color: white; font-size: 14px; margin-left: 10px;"></span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/">About</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="/">News</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="rules.html">Rules</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+
+
+  <div id="margin-container" class="text-center" style="border-bottom: 1px solid rgb(40, 40, 40);">
+
+    <div class="row title-text" style="font-size: 50px; padding-bottom: 50px; padding-top: 20px;">
+      <div class="col-md-12">
+        <span style="color: #ff0037;">THE</span> RULES
+      </div>
+  
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 30px; color: white;">
+            Step 1: Draft Your Team
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 15px; color: white;">
+            Join a league: Sign up and join a league with other players. You can either join a public league or create a private league with your friends!
+            <br><br>
+            Draft players: Participate in the live draft to build your fantasy team. Each player takes turns selecting NBA players for their team until all roster spots are filled. Use your knowledge and strategy to draft the best possible team, considering player stats, positions, and potential performance.
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 30px; color: white;">
+            Step 2: Set Your Lineup
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 15px; color: white;">
+            Manage your roster: Before each game week, set your starting lineup by selecting which players will be active and which will be on the bench. Pay attention to player matchups, injury reports, and recent performance to make informed decisions.
+            <br><br>
+            Make adjustments: Throughout the season, you can make roster changes such as trading players with other league members, picking up free agents, and dropping underperforming players. Stay engaged and adjust your lineup to maximize your team's potential.
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 30px; color: white;">
+            Step 3: Score Points and Compete
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 15px; color: white;">
+            Earn Tokens (Near Protocol): Your fantasy team earns points based on the real-life performance of your players in NBA games. Different actions (e.g., points scored, rebounds, assists, steals, blocks) contribute to your total score according to your league's scoring system. Redeem these tokens to receive Near Protocol cryptocurrency that allows you to purchase a variety of NFT cards of your favorite players!
+            <br><br>
+            Compete and win: Compete against other teams in your league in head-to-head matchups or rotisserie format. Track your team's progress, analyze statistics, and aim for the top spot in the standings. At the end of the season, the team with the most points or the best record wins the league championship.
+            <br><br>
+            By following these steps, you can enjoy the excitement of managing your own fantasy basketball team, strategizing, and competing against others!
+
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 30px; color: white;">
+            Buy and Sell NearFT
+            </p>
+      </div>
+
+      <div class="col-md-12">
+        <p id="yap-box" style="font-size: 15px; color: white;">
+            Using the acquired Near Protocol currency, anyone can buy NearFTs of their favorite players through the NFT shop. Users can use their currency to purchase gold, silver, or bronze ranked NFTs of their preferred players, enhancing their collection with these unique digital assets.
+            <br><br>
+            Purchased NFTs are stored in the user's inventory, which includes all acquired NFTs along with their respective rankings and purchase prices displayed. This comprehensive inventory allows users to easily view, manage, and track the value and status of their digital collection.
+            </p>
+      </div>
+
+
+
+    </div>
+  
+  </div>
+
+
+  <footer
+          class="text-center text-lg-start text-white"
+          style="background-color: #000000"
+          >
+
+    <section
+             class="d-flex justify-content-between"
+             style="background-color: #ff0037"
+             >
+
+      <div class="me-5">
+      </div>
+   
+    </section>
+  
+    <section class="">
+      <div class="container text-center text-md-start mt-5">
+        <!-- Grid row -->
+        <div class="row mt-3">
+          <!-- Grid column -->
+          <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+            <!-- Content -->
+            <h6 class="text-uppercase fw-bold">ArtFT</h6>
+            <hr
+                class="mb-4 mt-0 d-inline-block mx-auto"
+                style="width: 60px; background-color: #000000; height: 2px"
+                />
+            <p>
+              ArtFT - Fantasy Basketball page to have FUN, TRACK Scores, and EARN Tokens
+
+            </p>
+          </div>
+     
+          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold">FANTASY BASKETBALL</h6>
+            <hr
+                class="mb-4 mt-0 d-inline-block mx-auto"
+                style="width: 60px; background-color: #000000; height: 2px"
+                />
+            <p>
+              <a href="/teams.html" class="text-white" style="text-decoration: none;">Tournaments</a>
+            </p>
+            <p>
+              <a href="#!" class="text-white" style="text-decoration: none;">Rankings</a>
+            </p>
+            <p>
+              <a href="#!" class="text-white" style="text-decoration: none;">Prizes</a>
+            </p>
+          </div>
+         
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+ 
+            <h6 class="text-uppercase fw-bold">TEAM</h6>
+            <hr
+                class="mb-4 mt-0 d-inline-block mx-auto"
+                style="width: 60px; background-color: #000000; height: 2px"
+                />
+            <p>
+              <a href="#!" class="text-white" style="text-decoration: none;">DEV</a>
+            </p>
+            <p>
+              <a href="#!" class="text-white" style="text-decoration: none;">DHRUVIL</a>
+            </p>
+            <p>
+              <a href="https://discord.com/invite/triplerivals" target="_blank" class="text-white" style="text-decoration: none;">JAY</a>
+            </p>
+            <p>
+              <a href="#!" class="text-white" style="text-decoration: none;">DARSH</a>
+            </p>
+          </div>
+       
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold">Contact</h6>
+            <hr
+                class="mb-4 mt-0 d-inline-block mx-auto"
+                style="width: 60px; background-color: #000000; height: 2px"
+                />
+            <p><i class="fas fa-home mr-3"></i>inquiries@nearfantasy.com</p>
+            <p><i class="fas fa-envelope mr-3"></i> Any Questions?</p>
+          </div>
+      
+        </div>
+
+      </div>
+    </section>
+    <div
+         class="text-center p-3"
+         style="background-color: rgba(0, 0, 0, 0.2)"
+         >
+      Â© 2024 Copyright: ArtFT
+    </div>
+
+  </footer>
+
+
+  </body>
+</html>

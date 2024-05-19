@@ -85,7 +85,10 @@ def index():
         return render_template('index.html', standings=standings, team_data=team_data)
     return render_template('index.html')
 
-   
+@app.route('/rules')
+def rules():
+    return render_template('/rules.html')
+    
 
 if __name__ == '__main__':
     app.run(debug=True)
