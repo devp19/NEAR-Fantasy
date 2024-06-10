@@ -1,20 +1,21 @@
 {
-    "428.l.202949.t.4": [
+    "428.l.184608.t.3": [
         {
             "player_id": 6044,
             "name": "Jalen Brunson",
-            "status": "",
+            "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
                 "PG",
                 "G",
-                "Util"
+                "Util",
+                "IL+"
             ],
             "selected_position": "PG"
         },
         {
-            "player_id": 6550,
-            "name": "Franz Wagner",
+            "player_id": 6702,
+            "name": "Jalen Williams",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -28,342 +29,19 @@
             "selected_position": "SG"
         },
         {
-            "player_id": 10048,
-            "name": "Scoot Henderson",
-            "status": "GTD",
+            "player_id": 6355,
+            "name": "Anthony Edwards",
+            "status": "",
             "position_type": "P",
             "eligible_positions": [
-                "PG",
+                "SG",
                 "G",
-                "Util",
-                "IL+"
+                "SF",
+                "F",
+                "Util"
             ],
             "selected_position": "G"
         },
-        {
-            "player_id": 6559,
-            "name": "Trey Murphy III",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6693,
-            "name": "Jabari Smith Jr.",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 6021,
-            "name": "Mikal Bridges",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 6253,
-            "name": "Naz Reid",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5835,
-            "name": "Jarrett Allen",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5471,
-            "name": "Myles Turner",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5012,
-            "name": "Damian Lillard",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 3930,
-            "name": "Chris Paul",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6019,
-            "name": "Collin Sexton",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        }
-    ],
-    "428.l.202949.t.6": [
-        {
-            "player_id": 6616,
-            "name": "Jordan Goodwin",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 6022,
-            "name": "Shai Gilgeous-Alexander",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 10104,
-            "name": "Brandon Miller",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6155,
-            "name": "Haywood Highsmith",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6549,
-            "name": "Jonathan Kuminga",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 5007,
-            "name": "Anthony Davis",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 5856,
-            "name": "Isaiah Hartenstein",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5336,
-            "name": "Clint Capela",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 6025,
-            "name": "Michael Porter Jr.",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6167,
-            "name": "Darius Garland",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6060,
-            "name": "Chimezie Metu",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6596,
-            "name": "Sandro Mamukelashvili",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5164,
-            "name": "Kelly Olynyk",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5601,
-            "name": "Brandon Ingram",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 5432,
-            "name": "Karl-Anthony Towns",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 5651,
-            "name": "Caris LeVert",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.5": [
         {
             "player_id": 6028,
             "name": "Donte DiVincenzo",
@@ -376,48 +54,7 @@
                 "F",
                 "Util"
             ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 6165,
-            "name": "RJ Barrett",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6401,
-            "name": "Deni Avdija",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
             "selected_position": "SF"
-        },
-        {
-            "player_id": 5069,
-            "name": "Draymond Green",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "PF"
         },
         {
             "player_id": 5642,
@@ -430,208 +67,11 @@
                 "C",
                 "Util"
             ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 6226,
-            "name": "Daniel Gafford",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5327,
-            "name": "Jusuf Nurkic",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5197,
-            "name": "Rudy Gobert",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 4912,
-            "name": "Jimmy Butler",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6695,
-            "name": "Jaden Ivey",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 4897,
-            "name": "Nikola Vucevic",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6514,
-            "name": "Evan Mobley",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6175,
-            "name": "Tyler Herro",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 6395,
-            "name": "LaMelo Ball",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 6512,
-            "name": "Cade Cunningham",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.7": [
-        {
-            "player_id": 4563,
-            "name": "James Harden",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 5476,
-            "name": "Terry Rozier",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 6404,
-            "name": "Tyrese Haliburton",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 5473,
-            "name": "Devin Booker",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6692,
-            "name": "Chet Holmgren",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
             "selected_position": "PF"
         },
         {
-            "player_id": 10108,
-            "name": "Amen Thompson",
+            "player_id": 6606,
+            "name": "Austin Reaves",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -658,8 +98,45 @@
             "selected_position": "C"
         },
         {
-            "player_id": 6712,
-            "name": "Walker Kessler",
+            "player_id": 6614,
+            "name": "Jock Landale",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5754,
+            "name": "Alex Caruso",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5073,
+            "name": "Khris Middleton",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5958,
+            "name": "Deandre Ayton",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
@@ -667,11 +144,516 @@
                 "Util",
                 "IL+"
             ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6619,
+            "name": "Sam Hauser",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6717,
+            "name": "Nikola Jovic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4892,
+            "name": "Klay Thompson",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.7": [
+        {
+            "player_id": 6234,
+            "name": "Talen Horton-Tucker",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6048,
+            "name": "Gary Trent Jr.",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 6433,
+            "name": "Tre Jones",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 6691,
+            "name": "Paolo Banchero",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 5164,
+            "name": "Kelly Olynyk",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6207,
+            "name": "Luka Samanic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 10080,
+            "name": "Trayce Jackson-Davis",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
             "selected_position": "C"
         },
         {
-            "player_id": 6216,
-            "name": "Jordan Poole",
+            "player_id": 5294,
+            "name": "Joel Embiid",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5336,
+            "name": "Clint Capela",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5856,
+            "name": "Isaiah Hartenstein",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 10119,
+            "name": "Kris Murray",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6014,
+            "name": "Luka Doncic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 5765,
+            "name": "Jayson Tatum",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        }
+    ],
+    "428.l.184608.t.1": [
+        {
+            "player_id": 5433,
+            "name": "D'Angelo Russell",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 5843,
+            "name": "Josh Hart",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 5660,
+            "name": "Dejounte Murray",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 3704,
+            "name": "LeBron James",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 6550,
+            "name": "Franz Wagner",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6253,
+            "name": "Naz Reid",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 5471,
+            "name": "Myles Turner",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 4886,
+            "name": "Jonas Valanciunas",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6557,
+            "name": "Corey Kispert",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5432,
+            "name": "Karl-Anthony Towns",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 10048,
+            "name": "Scoot Henderson",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6747,
+            "name": "Jabari Walker",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4563,
+            "name": "James Harden",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6210,
+            "name": "Grant Williams",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.2": [
+        {
+            "player_id": 6413,
+            "name": "Tyrese Maxey",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6269,
+            "name": "Javonte Green",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 6560,
+            "name": "Tre Mann",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 4244,
+            "name": "Kevin Durant",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 5292,
+            "name": "Andrew Wiggins",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6758,
+            "name": "Kenneth Lofton Jr.",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 4472,
+            "name": "Brook Lopez",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6174,
+            "name": "P.J. Washington Jr.",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6016,
+            "name": "Trae Young",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 6404,
+            "name": "Tyrese Haliburton",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
@@ -684,8 +666,519 @@
             "selected_position": "Util"
         },
         {
-            "player_id": 6412,
-            "name": "Precious Achiuwa",
+            "player_id": 6616,
+            "name": "Jordan Goodwin",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6588,
+            "name": "Dalano Banton",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        }
+    ],
+    "428.l.184608.t.12": [
+        {
+            "player_id": 6167,
+            "name": "Darius Garland",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 5763,
+            "name": "Markelle Fultz",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 5638,
+            "name": "Jamal Murray",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 10104,
+            "name": "Brandon Miller",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 6693,
+            "name": "Jabari Smith Jr.",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6549,
+            "name": "Jonathan Kuminga",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 5835,
+            "name": "Jarrett Allen",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6596,
+            "name": "Sandro Mamukelashvili",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5009,
+            "name": "Bradley Beal",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 6175,
+            "name": "Tyler Herro",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 4912,
+            "name": "Jimmy Butler",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6169,
+            "name": "Coby White",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6578,
+            "name": "Miles McBride",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6712,
+            "name": "Walker Kessler",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "IL"
+        },
+        {
+            "player_id": 6226,
+            "name": "Daniel Gafford",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.9": [
+        {
+            "player_id": 6418,
+            "name": "Payton Pritchard",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6254,
+            "name": "Luguentz Dort",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 6727,
+            "name": "Jaden Hardy",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 6569,
+            "name": "Cam Thomas",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 6166,
+            "name": "De'Andre Hunter",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6165,
+            "name": "RJ Barrett",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 5327,
+            "name": "Jusuf Nurkic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5823,
+            "name": "Zach Collins",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5836,
+            "name": "OG Anunoby",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 6709,
+            "name": "Jake LaRavia",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 4612,
+            "name": "Stephen Curry",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4897,
+            "name": "Nikola Vucevic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4622,
+            "name": "Jrue Holiday",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4725,
+            "name": "Paul George",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.8": [
+        {
+            "player_id": 3930,
+            "name": "Chris Paul",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6022,
+            "name": "Shai Gilgeous-Alexander",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 4246,
+            "name": "Mike Conley",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 6580,
+            "name": "Ayo Dosunmu",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 5069,
+            "name": "Draymond Green",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 5506,
+            "name": "Norman Powell",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 6018,
+            "name": "Wendell Carter Jr.",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6703,
+            "name": "Jalen Duren",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5482,
+            "name": "Bobby Portis",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -697,8 +1190,23 @@
             "selected_position": "Util"
         },
         {
-            "player_id": 5959,
-            "name": "Marvin Bagley III",
+            "player_id": 6032,
+            "name": "Grayson Allen",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 10094,
+            "name": "Victor Wembanyama",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
@@ -725,24 +1233,33 @@
             "selected_position": "BN"
         },
         {
-            "player_id": 5836,
-            "name": "OG Anunoby",
-            "status": "INJ",
+            "player_id": 6514,
+            "name": "Evan Mobley",
+            "status": "",
             "position_type": "P",
             "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
+                "PF",
                 "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6705,
+            "name": "Mark Williams",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
                 "Util",
-                "IL",
                 "IL+"
             ],
             "selected_position": "IL"
         },
         {
-            "player_id": 6035,
-            "name": "Anfernee Simons",
+            "player_id": 5357,
+            "name": "Jordan Clarkson",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
@@ -753,27 +1270,71 @@
                 "IL+"
             ],
             "selected_position": "IL"
+        },
+        {
+            "player_id": 6572,
+            "name": "Santi Aldama",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "IL+"
         }
     ],
-    "428.l.202949.t.3": [
+    "428.l.184608.t.4": [
         {
-            "player_id": 5767,
-            "name": "De'Aaron Fox",
+            "player_id": 10100,
+            "name": "Keyonte George",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
                 "PG",
+                "SG",
                 "G",
                 "Util"
             ],
             "selected_position": "PG"
         },
         {
-            "player_id": 6032,
-            "name": "Grayson Allen",
+            "player_id": 10108,
+            "name": "Amen Thompson",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 4840,
+            "name": "Kyrie Irving",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 6710,
+            "name": "Malaki Branham",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
+                "PG",
                 "SG",
                 "G",
                 "SF",
@@ -781,7 +1342,7 @@
                 "Util",
                 "IL+"
             ],
-            "selected_position": "SG"
+            "selected_position": "SF"
         },
         {
             "player_id": 4614,
@@ -796,464 +1357,7 @@
                 "F",
                 "Util"
             ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6691,
-            "name": "Paolo Banchero",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6548,
-            "name": "Josh Giddey",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
             "selected_position": "PF"
-        },
-        {
-            "player_id": 6694,
-            "name": "Keegan Murray",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 6015,
-            "name": "Jaren Jackson Jr.",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 4472,
-            "name": "Brook Lopez",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 6014,
-            "name": "Luka Doncic",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5832,
-            "name": "John Collins",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6030,
-            "name": "Kevin Huerter",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 10096,
-            "name": "Ausar Thompson",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6016,
-            "name": "Trae Young",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5073,
-            "name": "Khris Middleton",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 5663,
-            "name": "Ivica Zubac",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.10": [
-        {
-            "player_id": 5009,
-            "name": "Bradley Beal",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 5637,
-            "name": "Buddy Hield",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 4896,
-            "name": "Kawhi Leonard",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 4892,
-            "name": "Klay Thompson",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6420,
-            "name": "Jaden McDaniels",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 6355,
-            "name": "Anthony Edwards",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 6434,
-            "name": "Nick Richards",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 6219,
-            "name": "Nic Claxton",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5958,
-            "name": "Deandre Ayton",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 4622,
-            "name": "Jrue Holiday",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5338,
-            "name": "Bogdan Bogdanovic",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6173,
-            "name": "Cameron Johnson",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 4244,
-            "name": "Kevin Durant",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5324,
-            "name": "Zach LaVine",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 6705,
-            "name": "Mark Williams",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.1": [
-        {
-            "player_id": 5754,
-            "name": "Alex Caruso",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 5843,
-            "name": "Josh Hart",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 5357,
-            "name": "Jordan Clarkson",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6403,
-            "name": "Devin Vassell",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 4901,
-            "name": "Tobias Harris",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 5295,
-            "name": "Aaron Gordon",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 5827,
-            "name": "Bam Adebayo",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
         },
         {
             "player_id": 10092,
@@ -1268,492 +1372,30 @@
                 "Util",
                 "IL+"
             ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6417,
-            "name": "Immanuel Quickley",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5600,
-            "name": "Ben Simmons",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6737,
-            "name": "Vince Williams Jr.",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6515,
-            "name": "Scottie Barnes",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5317,
-            "name": "Marcus Smart",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 5318,
-            "name": "Julius Randle",
-            "status": "INJ",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "Util",
-                "IL",
-                "IL+"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 5294,
-            "name": "Joel Embiid",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 5667,
-            "name": "Malcolm Brogdon",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.2": [
-        {
-            "player_id": 6053,
-            "name": "Bruce Brown",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 6697,
-            "name": "Shaedon Sharpe",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 4913,
-            "name": "Bojan Bogdanovic",
-            "status": "INJ",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6267,
-            "name": "Max Strus",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 6406,
-            "name": "Aaron Nesmith",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 6562,
-            "name": "Jalen Johnson",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
             "selected_position": "F"
         },
         {
-            "player_id": 6558,
-            "name": "Alperen Sengun",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5352,
-            "name": "Nikola Jokic",
+            "player_id": 5007,
+            "name": "Anthony Davis",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
+                "PF",
+                "F",
                 "C",
                 "Util"
             ],
             "selected_position": "C"
         },
         {
-            "player_id": 6699,
-            "name": "Jeremy Sochan",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 4725,
-            "name": "Paul George",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 6569,
-            "name": "Cam Thomas",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5161,
-            "name": "CJ McCollum",
+            "player_id": 6516,
+            "name": "Jalen Suggs",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
                 "PG",
                 "SG",
                 "G",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5660,
-            "name": "Dejounte Murray",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5640,
-            "name": "Jakob Poeltl",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 6166,
-            "name": "De'Andre Hunter",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "IL"
-        },
-        {
-            "player_id": 6413,
-            "name": "Tyrese Maxey",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 6702,
-            "name": "Jalen Williams",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 6169,
-            "name": "Coby White",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "IL+"
-        }
-    ],
-    "428.l.202949.t.9": [
-        {
-            "player_id": 5638,
-            "name": "Jamal Murray",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "PG"
-        },
-        {
-            "player_id": 4840,
-            "name": "Kyrie Irving",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "SG"
-        },
-        {
-            "player_id": 4246,
-            "name": "Mike Conley",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "G",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "G"
-        },
-        {
-            "player_id": 6606,
-            "name": "Austin Reaves",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "SF"
-        },
-        {
-            "player_id": 5840,
-            "name": "Kyle Kuzma",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "PF"
-        },
-        {
-            "player_id": 3704,
-            "name": "LeBron James",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SF",
-                "PF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "F"
-        },
-        {
-            "player_id": 6018,
-            "name": "Wendell Carter Jr.",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 10094,
-            "name": "Victor Wembanyama",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 5602,
-            "name": "Jaylen Brown",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
                 "Util"
             ],
             "selected_position": "Util"
@@ -1772,8 +1414,22 @@
             "selected_position": "Util"
         },
         {
-            "player_id": 5292,
-            "name": "Andrew Wiggins",
+            "player_id": 5650,
+            "name": "Malik Beasley",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 4487,
+            "name": "Nicolas Batum",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -1785,70 +1441,177 @@
             "selected_position": "BN"
         },
         {
-            "player_id": 5015,
-            "name": "Andre Drummond",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6408,
-            "name": "Isaiah Stewart",
+            "player_id": 5484,
+            "name": "Tyus Jones",
             "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
-                "PF",
-                "F",
-                "C",
+                "PG",
+                "G",
                 "Util",
                 "IL+"
+            ],
+            "selected_position": "IL"
+        },
+        {
+            "player_id": 4901,
+            "name": "Tobias Harris",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
             ],
             "selected_position": "IL+"
         }
     ],
-    "428.l.202949.t.8": [
+    "428.l.184608.t.5": [
         {
-            "player_id": 4612,
-            "name": "Stephen Curry",
+            "player_id": 5582,
+            "name": "T.J. McConnell",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
                 "PG",
-                "SG",
                 "G",
                 "Util"
             ],
             "selected_position": "PG"
         },
         {
-            "player_id": 5349,
-            "name": "Spencer Dinwiddie",
-            "status": "",
+            "player_id": 5651,
+            "name": "Caris LeVert",
+            "status": "GTD",
             "position_type": "P",
             "eligible_positions": [
-                "PG",
                 "SG",
                 "G",
-                "Util"
+                "SF",
+                "F",
+                "Util",
+                "IL+"
             ],
             "selected_position": "SG"
         },
         {
-            "player_id": 5433,
-            "name": "D'Angelo Russell",
+            "player_id": 10115,
+            "name": "Brandin Podziemski",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
-                "PG",
                 "SG",
                 "G",
                 "Util"
             ],
             "selected_position": "G"
+        },
+        {
+            "player_id": 6548,
+            "name": "Josh Giddey",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 6171,
+            "name": "Rui Hachimura",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 5464,
+            "name": "Kristaps Porzingis",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 6434,
+            "name": "Nick Richards",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5663,
+            "name": "Ivica Zubac",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6407,
+            "name": "Cole Anthony",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 4913,
+            "name": "Bojan Bogdanovic",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 6512,
+            "name": "Cade Cunningham",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
         },
         {
             "player_id": 6023,
@@ -1862,11 +1625,147 @@
                 "Util",
                 "IL+"
             ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6035,
+            "name": "Anfernee Simons",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6267,
+            "name": "Max Strus",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "IL"
+        },
+        {
+            "player_id": 6422,
+            "name": "Desmond Bane",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.6": [
+        {
+            "player_id": 4390,
+            "name": "Russell Westbrook",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6019,
+            "name": "Collin Sexton",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 5473,
+            "name": "Devin Booker",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
             "selected_position": "SF"
         },
         {
-            "player_id": 5013,
-            "name": "Harrison Barnes",
+            "player_id": 4245,
+            "name": "Al Horford",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 5159,
+            "name": "Kentavious Caldwell-Pope",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 6398,
+            "name": "Onyeka Okongwu",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5827,
+            "name": "Bam Adebayo",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 6025,
+            "name": "Michael Porter Jr.",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -1875,7 +1774,426 @@
                 "F",
                 "Util"
             ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5842,
+            "name": "Derrick White",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5352,
+            "name": "Nikola Jokic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6216,
+            "name": "Jordan Poole",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 5832,
+            "name": "John Collins",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6753,
+            "name": "Keon Ellis",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6401,
+            "name": "Deni Avdija",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "IL"
+        }
+    ],
+    "428.l.184608.t.10": [
+        {
+            "player_id": 6417,
+            "name": "Immanuel Quickley",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "PG"
+        },
+        {
+            "player_id": 6021,
+            "name": "Mikal Bridges",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 5338,
+            "name": "Bogdan Bogdanovic",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 6515,
+            "name": "Scottie Barnes",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 5350,
+            "name": "Jerami Grant",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
             "selected_position": "PF"
+        },
+        {
+            "player_id": 6697,
+            "name": "Shaedon Sharpe",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "F"
+        },
+        {
+            "player_id": 6692,
+            "name": "Chet Holmgren",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5323,
+            "name": "Dario Saric",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 4387,
+            "name": "Derrick Rose",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5197,
+            "name": "Rudy Gobert",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5012,
+            "name": "Damian Lillard",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6513,
+            "name": "Jalen Green",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 5602,
+            "name": "Jaylen Brown",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6559,
+            "name": "Trey Murphy III",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "IL+"
+        }
+    ],
+    "428.l.184608.t.11": [
+        {
+            "player_id": 5476,
+            "name": "Terry Rozier",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "SG"
+        },
+        {
+            "player_id": 5161,
+            "name": "CJ McCollum",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "SG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "G"
+        },
+        {
+            "player_id": 5601,
+            "name": "Brandon Ingram",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "SF"
+        },
+        {
+            "player_id": 5295,
+            "name": "Aaron Gordon",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "PF"
+        },
+        {
+            "player_id": 6219,
+            "name": "Nic Claxton",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "C",
+                "Util"
+            ],
+            "selected_position": "C"
+        },
+        {
+            "player_id": 5187,
+            "name": "Dennis Schroder",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "Util"
+        },
+        {
+            "player_id": 5475,
+            "name": "Kelly Oubre Jr.",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6562,
+            "name": "Jalen Johnson",
+            "status": "GTD",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util",
+                "IL+"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 5767,
+            "name": "De'Aaron Fox",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "PG",
+                "G",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 5637,
+            "name": "Buddy Hield",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SG",
+                "G",
+                "SF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
+        },
+        {
+            "player_id": 6694,
+            "name": "Keegan Murray",
+            "status": "",
+            "position_type": "P",
+            "eligible_positions": [
+                "SF",
+                "PF",
+                "F",
+                "Util"
+            ],
+            "selected_position": "BN"
         },
         {
             "player_id": 6163,
@@ -1889,62 +2207,11 @@
                 "Util",
                 "IL+"
             ],
-            "selected_position": "F"
+            "selected_position": "BN"
         },
         {
-            "player_id": 4886,
-            "name": "Jonas Valanciunas",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 6174,
-            "name": "P.J. Washington Jr.",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util"
-            ],
-            "selected_position": "C"
-        },
-        {
-            "player_id": 6513,
-            "name": "Jalen Green",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "PG",
-                "SG",
-                "G",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5194,
-            "name": "Tim Hardaway Jr.",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "Util"
-        },
-        {
-            "player_id": 5765,
-            "name": "Jayson Tatum",
+            "player_id": 6577,
+            "name": "Herbert Jones",
             "status": "",
             "position_type": "P",
             "eligible_positions": [
@@ -1952,61 +2219,6 @@
                 "PF",
                 "F",
                 "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6703,
-            "name": "Jalen Duren",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 6073,
-            "name": "Duncan Robinson",
-            "status": "",
-            "position_type": "P",
-            "eligible_positions": [
-                "SG",
-                "G",
-                "SF",
-                "F",
-                "Util"
-            ],
-            "selected_position": "BN"
-        },
-        {
-            "player_id": 5823,
-            "name": "Zach Collins",
-            "status": "GTD",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util",
-                "IL+"
-            ],
-            "selected_position": "IL+"
-        },
-        {
-            "player_id": 5464,
-            "name": "Kristaps Porzingis",
-            "status": "INJ",
-            "position_type": "P",
-            "eligible_positions": [
-                "PF",
-                "F",
-                "C",
-                "Util",
-                "IL",
-                "IL+"
             ],
             "selected_position": "IL+"
         }
